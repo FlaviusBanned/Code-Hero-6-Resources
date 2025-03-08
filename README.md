@@ -6,29 +6,23 @@ This collection features the materials I used to teach **Object-Oriented Program
 
 The resources are designed to be beginner-friendly, making it easier for students to grasp core OOP concepts while building confidence in writing Python code. 💡
 
----
-
 ## 📂 What's Inside?
 
-- **📜 Lesson Notes**  
+- - > **📜 Lesson Notes**  
   Clear and structured explanations of OOP concepts like classes, objects, inheritance, and more.
 
-- **💻 Code Examples**  
+- - > **💻 Code Examples**  
   Practical examples that demonstrate how to implement OOP principles in Python.
 
-- **📝 Exercises & Challenges**  
+- - > **📝 Exercises & Challenges**  
   Engaging practice problems to reinforce learning and mastery of Python OOP.
 
-- **🎮 Mini Projects**  
+- - > **🎮 Mini Projects**  
   Fun, hands-on coding tasks to apply OOP concepts in real-world scenarios.
-
----
 
 ## ⚠️ Important Notice
 
 These materials are based on **Cartea Daliei**'s notes. Any attempt to use, distribute, or modify them without proper consent is strictly prohibited.
-
----
 
 ## 🎯 Happy Coding! ✨
 
