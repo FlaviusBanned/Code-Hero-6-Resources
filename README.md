@@ -8,16 +8,16 @@ The resources are designed to be beginner-friendly, making it easier for student
 
 ## 📂 What's Inside?
 
-- - > **📜 Lesson Notes**  
+- ->**📜 Lesson Notes**  
   Clear and structured explanations of OOP concepts like classes, objects, inheritance, and more.
 
-- - > **💻 Code Examples**  
+- ->**💻 Code Examples**  
   Practical examples that demonstrate how to implement OOP principles in Python.
 
-- - > **📝 Exercises & Challenges**  
+- ->**📝 Exercises & Challenges**  
   Engaging practice problems to reinforce learning and mastery of Python OOP.
 
-- - > **🎮 Mini Projects**  
+- ->**🎮 Mini Projects**  
   Fun, hands-on coding tasks to apply OOP concepts in real-world scenarios.
 
 ## ⚠️ Important Notice
