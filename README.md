@@ -1,1 +1,1 @@
-# Owner-avatar-Code-Hero-6-Resources
+# Code-Hero-6-Resources
